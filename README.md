@@ -2,7 +2,7 @@
 
 Sitio web de mi portafolio personal donde presento mi perfil como estudiante de Análisis de Sistemas y Desarrollador Python / Django Jr, mis proyectos de programación, mi experiencia y mis certificaciones.
 
-🌐 **Sitio publicado:** [https://uri46.github.io/Portafolio/](https://uri46.github.io/Portafolio/)
+🌐 **Sitio publicado:** [https://urhiel-tao.github.io/Portafolio/](https://urhiel-tao.github.io/Portafolio/)
 
 ## Características
 
@@ -36,7 +36,7 @@ Portafolio/
 Al ser un sitio estático sin dependencias externas, podés abrir directamente el archivo `index.html` en cualquier navegador o levantarlo con un servidor local simple:
 
 ```bash
-git clone https://github.com/Uri46/Portafolio.git
+git clone https://github.com/urhiel-tao/Portafolio.git
 cd Portafolio
 python -m http.server 8000
 ```
